@@ -12,7 +12,8 @@ citation: Testytest (2021). (Version draft) [Data set]. DANDI archive. https://d
 description: I am just wondering what happens after I do thiis
 id: DANDI:000038/draft
 identifier: DANDI:000038
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000038/versions/draft/assets/
 name: Testytest
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
